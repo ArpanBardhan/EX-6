@@ -50,10 +50,11 @@ while True:
 ```
 
 # OUTPUT :
+# CLIENT OUTPUT :
 ![Screenshot (65)](https://github.com/ArpanBardhan/EX-6/assets/119405037/08f22bb4-2c5e-4e8e-b7cb-6d06d0233ff9)
 
-
-
+# SERVER OUTPUT :
+![OUTPUT](./Screenshot%20(64).png)
 
 
 # RESULT :
