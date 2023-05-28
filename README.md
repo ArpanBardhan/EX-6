@@ -55,5 +55,6 @@ while True:
 
 
 
+
 # RESULT :
 Thus, the python program for simulating ping command was successfully executed
